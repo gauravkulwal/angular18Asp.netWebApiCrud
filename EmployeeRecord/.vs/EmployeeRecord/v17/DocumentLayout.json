@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp.net\\webapi\\angular18Contact\\api\\EmployeeRecord\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7655F9A9-DC8E-4AF6-BFA2-58D7C5A28471}|EmployeeRecord\\EmployeeRecord.csproj|d:\\asp.net\\webapi\\angular18contact\\api\\employeerecord\\employeerecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7655F9A9-DC8E-4AF6-BFA2-58D7C5A28471}|EmployeeRecord\\EmployeeRecord.csproj|solutionrelative:employeerecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7655F9A9-DC8E-4AF6-BFA2-58D7C5A28471}|EmployeeRecord\\EmployeeRecord.csproj|d:\\asp.net\\webapi\\angular18contact\\api\\employeerecord\\employeerecord\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7655F9A9-DC8E-4AF6-BFA2-58D7C5A28471}|EmployeeRecord\\EmployeeRecord.csproj|solutionrelative:employeerecord\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7655F9A9-DC8E-4AF6-BFA2-58D7C5A28471}|EmployeeRecord\\EmployeeRecord.csproj|d:\\asp.net\\webapi\\angular18contact\\api\\employeerecord\\employeerecord\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7655F9A9-DC8E-4AF6-BFA2-58D7C5A28471}|EmployeeRecord\\EmployeeRecord.csproj|solutionrelative:employeerecord\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7655F9A9-DC8E-4AF6-BFA2-58D7C5A28471}|EmployeeRecord\\EmployeeRecord.csproj|d:\\asp.net\\webapi\\angular18contact\\api\\employeerecord\\employeerecord\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7655F9A9-DC8E-4AF6-BFA2-58D7C5A28471}|EmployeeRecord\\EmployeeRecord.csproj|solutionrelative:employeerecord\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7655F9A9-DC8E-4AF6-BFA2-58D7C5A28471}|EmployeeRecord\\EmployeeRecord.csproj|d:\\asp.net\\webapi\\angular18contact\\api\\employeerecord\\employeerecord\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7655F9A9-DC8E-4AF6-BFA2-58D7C5A28471}|EmployeeRecord\\EmployeeRecord.csproj|solutionrelative:employeerecord\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7655F9A9-DC8E-4AF6-BFA2-58D7C5A28471}|EmployeeRecord\\EmployeeRecord.csproj|d:\\asp.net\\webapi\\angular18contact\\api\\employeerecord\\employeerecord\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7655F9A9-DC8E-4AF6-BFA2-58D7C5A28471}|EmployeeRecord\\EmployeeRecord.csproj|solutionrelative:employeerecord\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7655F9A9-DC8E-4AF6-BFA2-58D7C5A28471}|EmployeeRecord\\EmployeeRecord.csproj|d:\\asp.net\\webapi\\angular18contact\\api\\employeerecord\\employeerecord\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7655F9A9-DC8E-4AF6-BFA2-58D7C5A28471}|EmployeeRecord\\EmployeeRecord.csproj|solutionrelative:employeerecord\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7655F9A9-DC8E-4AF6-BFA2-58D7C5A28471}|EmployeeRecord\\EmployeeRecord.csproj|d:\\asp.net\\webapi\\angular18contact\\api\\employeerecord\\employeerecord\\migrations\\20241104063441_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7655F9A9-DC8E-4AF6-BFA2-58D7C5A28471}|EmployeeRecord\\EmployeeRecord.csproj|solutionrelative:employeerecord\\migrations\\20241104063441_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\asp.net\\webapi\\angular18Contact\\api\\EmployeeRecord\\EmployeeRecord\\Models\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeRecord\\Models\\EmployeeDto.cs",
+              "ToolTip": "D:\\asp.net\\webapi\\angular18Contact\\api\\EmployeeRecord\\EmployeeRecord\\Models\\EmployeeDto.cs",
+              "RelativeToolTip": "EmployeeRecord\\Models\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:46:54.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\asp.net\\webapi\\angular18Contact\\api\\EmployeeRecord\\EmployeeRecord\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EmployeeRecord\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\asp.net\\webapi\\angular18Contact\\api\\EmployeeRecord\\EmployeeRecord\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EmployeeRecord\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:37:28.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\asp.net\\webapi\\angular18Contact\\api\\EmployeeRecord\\EmployeeRecord\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeRecord\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\asp.net\\webapi\\angular18Contact\\api\\EmployeeRecord\\EmployeeRecord\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeRecord\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAswGMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:37:16.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241104063441_initial.cs",
+              "DocumentMoniker": "D:\\asp.net\\webapi\\angular18Contact\\api\\EmployeeRecord\\EmployeeRecord\\Migrations\\20241104063441_initial.cs",
+              "RelativeDocumentMoniker": "EmployeeRecord\\Migrations\\20241104063441_initial.cs",
+              "ToolTip": "D:\\asp.net\\webapi\\angular18Contact\\api\\EmployeeRecord\\EmployeeRecord\\Migrations\\20241104063441_initial.cs",
+              "RelativeToolTip": "EmployeeRecord\\Migrations\\20241104063441_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:34:41.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp.net\\webapi\\angular18Contact\\api\\EmployeeRecord\\EmployeeRecord\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeRecord\\Program.cs",
+              "ToolTip": "D:\\asp.net\\webapi\\angular18Contact\\api\\EmployeeRecord\\EmployeeRecord\\Program.cs",
+              "RelativeToolTip": "EmployeeRecord\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:22:25.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\asp.net\\webapi\\angular18Contact\\api\\EmployeeRecord\\EmployeeRecord\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeRecord\\appsettings.json",
+              "ToolTip": "D:\\asp.net\\webapi\\angular18Contact\\api\\EmployeeRecord\\EmployeeRecord\\appsettings.json",
+              "RelativeToolTip": "EmployeeRecord\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T06:03:11.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "D:\\asp.net\\webapi\\angular18Contact\\api\\EmployeeRecord\\EmployeeRecord\\Data\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeRecord\\Data\\EmployeeDbContext.cs",
+              "ToolTip": "D:\\asp.net\\webapi\\angular18Contact\\api\\EmployeeRecord\\EmployeeRecord\\Data\\EmployeeDbContext.cs",
+              "RelativeToolTip": "EmployeeRecord\\Data\\EmployeeDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:15:59.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\asp.net\\webapi\\angular18Contact\\api\\EmployeeRecord\\EmployeeRecord\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeRecord\\Models\\Employee.cs",
+              "ToolTip": "D:\\asp.net\\webapi\\angular18Contact\\api\\EmployeeRecord\\EmployeeRecord\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeRecord\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:04:19.564Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
