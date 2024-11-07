@@ -1,0 +1,15 @@
+ul{
+   list-style-type: none;
+ 
+}
+li, a{
+    font-weight: bold;
+  color: aliceblue;
+  font-size: larger;
+}
+nav{
+    height: 50px;
+}
+li:hover{
+    color: black;
+}

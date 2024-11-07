@@ -1,0 +1,19 @@
+<nav class="navbar navbar-light bg-primary">
+  <div class="container-fluid">
+    <a class="navbar-brand"> <h3 class="text-white">EmployeeRecord</h3></a>
+  <ul class="d-flex">
+    <li routerLink="add" class="mx-2" routerLinkActive="router-link-active" >Add</li>
+    <li routerLink="list" class="mx-2" routerLinkActive="router-link-active" >List</li>
+  </ul>
+  </div>
+</nav>
+
+<div class="container ">
+  <div class="row">
+    <div class="col-md-11 mx-auto">
+  <router-outlet></router-outlet> 
+     <!-- <app-list></app-list> -->
+    </div>
+  </div>
+</div>
+

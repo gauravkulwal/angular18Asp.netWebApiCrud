@@ -1,0 +1,33 @@
+
+<table>
+    <thead>
+        <th>Name</th>
+        <th>Gender</th>
+        <th>Email</th>
+        <th>Contact</th>
+     <th>Date Of Join</th>
+        <th>Department</th>
+        <th>isPermanent</th>
+        <th><i class="bi bi-plus-slash-minus"></i></th>
+    </thead>
+    <tbody>
+        @for (item of EmployeeRecord; track $index) {
+        <tr>
+<td>{{item.fullName}}</td>
+<td>{{item.gender}}</td>
+<td>{{item.email}}</td>
+<td>{{item.contact}}</td>
+<td>{{item.dateOfJoin | date }}</td>
+<td>{{item.department}}</td>
+<td>{{item.isPermanent}}</td>
+<td><i class="bi bi-file-plus mx-1" (click)="onEdit(item)"></i>
+    <i class="bi bi-x-square mx-1" (click)="onDelete(item.id)"></i>
+</td>
+</tr>
+    }
+    @empty {
+        <h1>No data</h1>
+    }
+    </tbody>
+</table>
+
